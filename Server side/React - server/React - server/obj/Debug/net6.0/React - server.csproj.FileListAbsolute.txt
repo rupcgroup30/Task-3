@@ -1,0 +1,33 @@
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\appsettings.json
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\React - server.exe
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\React - server.deps.json
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\React - server.runtimeconfig.json
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\React - server.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\React - server.pdb
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.csproj.AssemblyReference.cache
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.AssemblyInfoInputs.cache
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.AssemblyInfo.cs
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.csproj.CoreCompileInputs.cache
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\scopedcss\bundle\React - server.styles.css
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.csproj.CopyComplete
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\refint\React - server.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.pdb
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\React - server.genruntimeconfig.cache
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\obj\Debug\net6.0\ref\React - server.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tomer\OneDrive\שולחן העבודה\הנדסת תעשייה וניהול\שנה ד\סמסטר א\פיתוח אפליקציות\מטלות\מטלה 3\Server side\React - server\React - server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
